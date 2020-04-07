@@ -24,12 +24,12 @@ title:                 Unjyon's blog
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "퍼블리싱 는 운동쟁이의 홈페이지 입니다.".
+  "퍼블리싱 하는 운동쟁이의 홈페이지 입니다.".
 
 
 # A shorter description for the sidebar.
 tagline:               >
-  "퍼블리싱 는 운동쟁이의 홈페이지 입니다.".
+  "퍼블리싱 하는 운동쟁이의 홈페이지 입니다.".
 
  # A list of keywords for your blog
 keywords:              [Eunjung Song, Resume, Hompage, Blog]
@@ -41,8 +41,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Eunjung> <Song>
+  email:               <strange.ssong75@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
